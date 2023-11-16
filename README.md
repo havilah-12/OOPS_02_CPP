@@ -1,6 +1,5 @@
 # OOPS_02_CPP
-Personal Diary Management System
-
+Personal Diary Management System using C++
 ## Description
 
 The main object of this project is user can keep their personal record like they do in a diary which is  password-protected. You can keep records of important things you do in your daily life, like meetings and  various other to do tasks. You can organize your schedule as well as view some particular entry of a  particular date or time. In this console application, you can add, view, edit and delete records. Records  can be added with information such as about your day , tasks, important meetings, time and event etc. 
